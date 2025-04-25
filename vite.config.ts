@@ -18,6 +18,9 @@ export default defineConfig({
       manifest: {
         name: "Parser",
         short_name: "Parser",
+        theme_color: "#101828",
+        background_color: "#101828",
+        display: "fullscreen",
         icons: [
           {
             src: "/web-app-manifest-192x192.png",

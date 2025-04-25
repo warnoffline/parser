@@ -55,7 +55,7 @@ export function Vacancy() {
           <ArrowLeft />
         </Button>
       </div>
-      <div className="w-full sm:w-8/12 flex flex-col items-center gap-5 p-2">
+      <div className="w-full sm:w-8/12 flex flex-col items-center gap-5 px-2 py-10">
         <header className="w-full flex flex-col sm:flex-row gap-5 justify-between sm:p-0">
           <div className="sm:w-[60%] border border-gray-600 rounded-4xl p-10">
             <p className="font-bold sm:text-4xl text-2xl text-gray-100">
