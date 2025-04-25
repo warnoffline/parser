@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: "Nunito Sans", sans-serif;
+  }
+  body {
+    background-color: oklch(21% 0.034 264.665);
+  }
+}
